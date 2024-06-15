@@ -3,11 +3,11 @@
 Welcome to the Hanging Man Game! This is a simple Python implementation of the classic word-guessing game.
 
 ## Table of Contents
-- [Introduction] (#introduction)
-- [Features] (#features)
+- [Introduction](#introduction)
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots] (#screenshots)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -45,8 +45,8 @@ Once the game starts, you will see a prompt to guess a letter. Type a letter and
 
 ## The appearance of the game:
 ### Game Start:
-![Game Start](path/to/start_screenshot.png)
+![Game Start](Description pictures/start.png)
 
 ### In-Game:
-![In-Game](path/to/ingame_screenshot.png)
+![In-Game](Description pictures/in game.png)
 
