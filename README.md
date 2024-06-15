@@ -45,8 +45,8 @@ Once the game starts, you will see a prompt to guess a letter. Type a letter and
 
 ## The appearance of the game:
 ### Game Start:
-![Game Start](/Description pictures/start.png)
+![Game Start](/Description%20pictures/start.png)
 
 ### In-Game:
-![In-Game](/Description pictures/in game.png)
+![In-Game](/Description%20pictures/in%20game.png)
 
